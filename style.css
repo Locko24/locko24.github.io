@@ -8,14 +8,14 @@ body{
 }
 
 .I-paragrafo{
-	background-color: white;
-	color: #9B4F96;
+	background-color: black;
+	color: #339933;
 	text-align: center;
 }
 
 .II-paragrafo{
 	background-color: #9B4F96;
-	color: #FFFFFF;
+	color: #FFF433;
 	text-align: center;
 }
 
