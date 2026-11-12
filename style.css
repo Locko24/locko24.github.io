@@ -1,0 +1,50 @@
+body{
+	background-color: white;
+}
+
+.titulo{
+	font-family: monospace;
+	text-align: center;
+}
+
+.I-paragrafo{
+	background-color: white;
+	color: #9B4F96;
+	text-align: center;
+}
+
+.II-paragrafo{
+	background-color: #9B4F96;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.III-paragrafo{
+	background-color: #F5A9B8;
+	color: #D60270;
+	text-align: center;
+}
+
+.IV-paragrafo{
+	background-color: #5BCEFA;
+	color: #D60270;
+	text-align: center;
+}
+
+.V-paragrafo{
+	background-color: #0038A8;
+	color: #5BCEFA;
+	text-align: center;
+}
+
+.VI-paragrafo{
+	background-color: #D60270;
+	color: white;
+	text-align: center;
+}
+
+.VII-paragrafo{
+	background-color: black;
+	color: #339933;
+	text-align: center;
+}
